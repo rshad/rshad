@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Cloud Engineer at [RavenPack](https://www.ravenpack.com/).
+I'm a Senior DevOps Engineer at [Vista](https://www.vista.com/).
 
 - 🌱 I’m interested in ML, Cloud Computing and Functional Programming. 
 - 🔭 I'm currently expanding my knowledge in NLP and learning Functional Programming with Haskell.
