@@ -2,8 +2,8 @@
 
 I'm a Senior DevOps Engineer at [Vista](https://www.vista.com/).
 
-- 🌱 I’m interested in ML, Cloud Computing and Functional Programming. 
-- 🔭 I'm currently expanding my knowledge in NLP and learning Functional Programming with Haskell.
+- 🌱 I’m interested in Data Engineering and Machine Learning and Functional Programming
+- 🔭 I'm currently learning Functional Programming with Haskell and Scala.
 <!--
 **rshad/rshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
